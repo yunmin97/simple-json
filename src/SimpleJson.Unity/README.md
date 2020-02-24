@@ -7,4 +7,5 @@ extend simple-json(version 0.38.0) for unity.
 2.add partial keyword:
 * adds the partial keyword for the SimpleJson.JsonArray class.     
 * adds the partial keyword for the SimpleJson.JsonObject class.
-            
+
+3.enjoy it.
